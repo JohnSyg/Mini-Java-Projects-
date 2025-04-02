@@ -1,4 +1,4 @@
-# Mini Java Projects
+# Simple Java Projects
 
 ## Project Cars
 This project provide the total distance and the total consumption of the cars that the user provided, but also the maximum distance traveled by one of them.
